@@ -1,5 +1,5 @@
 # samifix-mapcontrol
-Intended for Hard RP and Survival RP servers.
+Intended for Hard RP and Survival RP servers.   Drag and Drop Resources
 
 # TR
 
